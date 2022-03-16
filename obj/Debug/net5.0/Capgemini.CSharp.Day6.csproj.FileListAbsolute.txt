@@ -1,0 +1,16 @@
+C:\Users\LENOVO\OneDrive\Documents\capgemini\csharp\Capgemini.CSharp.Day6\obj\Debug\net5.0\Capgemini.CSharp.Day6.csproj.AssemblyReference.cache
+C:\Users\LENOVO\OneDrive\Documents\capgemini\csharp\Capgemini.CSharp.Day6\obj\Debug\net5.0\Capgemini.CSharp.Day6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\OneDrive\Documents\capgemini\csharp\Capgemini.CSharp.Day6\obj\Debug\net5.0\Capgemini.CSharp.Day6.AssemblyInfoInputs.cache
+C:\Users\LENOVO\OneDrive\Documents\capgemini\csharp\Capgemini.CSharp.Day6\obj\Debug\net5.0\Capgemini.CSharp.Day6.AssemblyInfo.cs
+C:\Users\LENOVO\OneDrive\Documents\capgemini\csharp\Capgemini.CSharp.Day6\obj\Debug\net5.0\Capgemini.CSharp.Day6.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Documents\capgemini\csharp\Capgemini.CSharp.Day6\bin\Debug\net5.0\Capgemini.CSharp.Day6.exe
+C:\Users\LENOVO\OneDrive\Documents\capgemini\csharp\Capgemini.CSharp.Day6\bin\Debug\net5.0\Capgemini.CSharp.Day6.deps.json
+C:\Users\LENOVO\OneDrive\Documents\capgemini\csharp\Capgemini.CSharp.Day6\bin\Debug\net5.0\Capgemini.CSharp.Day6.runtimeconfig.json
+C:\Users\LENOVO\OneDrive\Documents\capgemini\csharp\Capgemini.CSharp.Day6\bin\Debug\net5.0\Capgemini.CSharp.Day6.runtimeconfig.dev.json
+C:\Users\LENOVO\OneDrive\Documents\capgemini\csharp\Capgemini.CSharp.Day6\bin\Debug\net5.0\Capgemini.CSharp.Day6.dll
+C:\Users\LENOVO\OneDrive\Documents\capgemini\csharp\Capgemini.CSharp.Day6\bin\Debug\net5.0\Capgemini.CSharp.Day6.pdb
+C:\Users\LENOVO\OneDrive\Documents\capgemini\csharp\Capgemini.CSharp.Day6\obj\Debug\net5.0\Capgemini.CSharp.Day6.dll
+C:\Users\LENOVO\OneDrive\Documents\capgemini\csharp\Capgemini.CSharp.Day6\obj\Debug\net5.0\refint\Capgemini.CSharp.Day6.dll
+C:\Users\LENOVO\OneDrive\Documents\capgemini\csharp\Capgemini.CSharp.Day6\obj\Debug\net5.0\Capgemini.CSharp.Day6.pdb
+C:\Users\LENOVO\OneDrive\Documents\capgemini\csharp\Capgemini.CSharp.Day6\obj\Debug\net5.0\Capgemini.CSharp.Day6.genruntimeconfig.cache
+C:\Users\LENOVO\OneDrive\Documents\capgemini\csharp\Capgemini.CSharp.Day6\obj\Debug\net5.0\ref\Capgemini.CSharp.Day6.dll
